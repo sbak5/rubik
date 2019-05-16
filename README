@@ -1,3 +1,7 @@
+This fork has been modified for Cray XE/XK machine based on the following version of Rubik. 
+The work has been presented in SC `16 SRC poster, Mapping Applications on Irregular Allocations
+(http://sc16.supercomputing.org/sc-archive/src_poster/src_poster_pages/spost152.html)
+
 ================================================================================
  Rubik v1.0.1
 ================================================================================
